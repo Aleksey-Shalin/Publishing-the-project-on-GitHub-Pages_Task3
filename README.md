@@ -8,7 +8,7 @@
 <div class="range" style="padding: 1rem; background-color: #d4edda; border: 1px solid #d4edda; border-radius: 4px; margin: 1rem 0;"> <i>Życie przynosi wiele niewytłumaczalnych i dziwnych momentów, które ciężko od razu wyjaśnić<center></i></div>
 
 <html>
-
+<body>
 <center><div class="range" style="padding: 1rem; background-color: #B0C4DE; border: 1px solid #B0C4DE; border-radius: 4px; margin: 1rem 0;">*Na poniższym zdjęciu każda osoba widzi coś wyjątkowego .......Na przykład, co państwo doznają patrząc na to zdjęcie?*<br> 
 <style>  
 img { opacity: 1;  
@@ -38,3 +38,5 @@ opacity: 0;
   :smile:
 </div>
 </center>
+</body>
+</html>
