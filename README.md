@@ -1,9 +1,9 @@
-## <div align="center"> *Dziwactwa życia* </div>
+<div align="center"> <h2><i> Dziwactwa życia </i></h2> </div>
 
 *Życie jest tak niezrozumiałe, że czasami jest bardzo trudno coś wytłumaczyć nawet sobie*
 
-<div align="center"> <b><i>Za każdym razem będziemy się mylić.....:sweat:<br>
-.....Ale czy to naprawdę są błędy?:wink:</i></b></div>
+<div align="center"><b><i> Za każdym razem będziemy się mylić..... :sweat: </i></b><br></div>
+<div align="center"><b><i> .....Ale czy to naprawdę są błędy? :wink: </i></b></div>
 <p></p>
 
 *Życie przynosi wiele niewytłumaczalnych i dziwnych momentów, które ciężko od razu wyjaśnić*
